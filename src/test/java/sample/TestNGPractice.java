@@ -12,6 +12,7 @@ public class TestNGPractice {
 	public void createUser()
 	{
 		System.out.println("User created");
+		System.out.println("hello");
 	}
 	
 //	@Ignore
